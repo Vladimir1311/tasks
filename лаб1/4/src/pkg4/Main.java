@@ -2,6 +2,13 @@ package pkg4;
 
 import java.util.Scanner;
 
+/*
+ * 
+ * 4.В каждом слове текста k-ю букву заменить заданным символом. 
+ * Если k больше длины слова, корректировку не выполнять.
+ *
+ */
+
 public class Main 
 {
     public static void main(String[] args) 
