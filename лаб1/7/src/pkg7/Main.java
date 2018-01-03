@@ -3,6 +3,12 @@ package pkg7;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/*
+ * 
+ * 7.Из текста удалить все слова заданной длины, начинающиеся на согласную букву.
+ *
+ */
+
 public class Main
 {
     public static void main(String[] args) 

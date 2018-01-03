@@ -4,6 +4,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/*
+ * 
+ * 9.Найти и напечатать, сколько раз повторяется в тексте каждое слово.
+ *
+ */
+
 public class Main 
 {
     public static void main(String[] args) 

@@ -2,6 +2,13 @@ package pkg10;
 
 import java.util.Scanner;
 
+/*
+ * 
+ * 10.Найти, каких букв, гласных или согласных, 
+ * больше в каждом предложении текста.
+ *
+ */
+
 public class Main 
 {
     static String S;

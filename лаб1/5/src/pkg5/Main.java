@@ -3,6 +3,14 @@ package pkg5;
 import java.io.PrintStream;
 import java.util.Scanner;
 
+/*
+ * 
+ * 5.В русском тексте каждую букву заменить ее номером в алфавите. 
+ * В одной строке печатать текст с двумя пробелами между буквами, 
+ * в следующей строке внизу под каждой буквой печатать ее номер.
+ *
+ */
+
 public class Main 
 {
     private static final String TEXT =

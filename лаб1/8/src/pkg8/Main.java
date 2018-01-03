@@ -2,6 +2,12 @@ package pkg8;
 
 import java.util.Scanner;
 
+/*
+ * 
+ * 8.В тексте найти все пары слов, из которых одно является об­ращением другого.
+ *
+ */
+ 
 public class Main 
 {
     static String  S;
